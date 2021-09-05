@@ -4,7 +4,6 @@
       <td valign="top">
         <h3>Hi there 👋</h3>
         <p>I'm Ming, a backend developer from Shenzhen, China.</p>
-        <br />
         <ul>
           <li>🎓 BA, graduated from <a href="https://www.cqut.edu.cn/" target="_blank">CQUT</a> in 2016</li>
           <li>💼 Worked on <a href="https://sf-tech.com.cn/" target="_blank">SF Technology</a> from 2016 to 2021</li>
