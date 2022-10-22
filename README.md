@@ -15,3 +15,7 @@ Go | Python | JavaScript/Node.js | Vue | Java | Docker | Kubernetes
 ### GitHub Statistics
 
 ![Ming's github stats](https://github-readme-stats.vercel.app/api?username=mingslife&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
+
+### WeChat Official Account
+
+<img alt="QR CODE" src="https://file.mingslife.com/upload/attachment/20221023/qrcode_for_gh_ff816be909ad_258.jpg" style="width: 126px; height: 126px;" />
