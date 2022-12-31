@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-I'm Ming, a full-stack developer from Shenzhen, China.
+I'm Ming, a full-stack developer from Zhuhai, China.
 
 * 🎓 BA, graduated from [CQUT](https://www.cqut.edu.cn/) in 2016, majored in Software Engineering
 * 💼 Worked for [SF Technology](https://sf-tech.com.cn/) from 2016 to 2021
+* 💼 Now working for [Kingsoft](https://www.kingsoft.com/)
 * 📱 Secret yet, you can reach me by email
 * 📫 [642203604@qq.com](mailto:642203604@qq.com)
 * 🌐 [https://mingslife.com](https://mingslife.com/)
