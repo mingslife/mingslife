@@ -2,8 +2,8 @@
 
 I'm Ming, a full-stack developer from Zhuhai, China.
 
-* 🎓 BA, graduated from [CQUT](https://www.cqut.edu.cn/) in 2016, majored in Software Engineering
-* 💼 Worked for [SF Technology](https://sf-tech.com.cn/) from 2016 to 2021
+* 🎓 BA, graduated from [CQUT](https://www.cqut.edu.cn/) in 2017, majored in Software Engineering
+* 💼 Worked for [SF Technology](https://sf-tech.com.cn/) from 2017 to 2021
 * 💼 Now working for [Kingsoft](https://www.kingsoft.com/)
 * 📱 Secret yet, you can reach me by email
 * 📫 [642203604@qq.com](mailto:642203604@qq.com)
